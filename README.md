@@ -47,4 +47,13 @@ Excel, Power BI, Power Query, DAX, Drill downs, Tooltips
 * High-risk states (based on AQI, population, and severity rate): Gujarat, Uttar Pradesh, Maharashtra — with Gujarat projected to have the highest population growth rate (4.88% by 2035).
 * Air purifier market analysis: Dyson is the premium segment leader (₹30K–₹55K), while the average market price for other brands is around ₹22K.
 * Consumer behavior insights (Delhi, 2023): AQI spikes in October–December correlate with higher purifier sales and increased Google search interest, indicating demand surges during high pollution months.
-* 
+
+# Recommendations
+1. Market Focus & Segmentation – Prioritize high-AQI metros and high-risk states with tailored offerings: premium for affluent urban markets, mid-range for emerging high-AQI regions, and eco-lifestyle positioning in high-EV states.
+2. Seasonal & Demographic Targeting – Leverage Oct–Dec pollution peaks with pre-season campaigns, affordability options, and variants designed for vulnerable groups like children and seniors.
+3. Competitive & Feature Differentiation – Fill the gap between premium and mid-tier brands by offering smart-featured purifiers at a competitive price, emphasizing low maintenance costs and filter longevity.
+4. Partnerships & Data-Driven Strategy – Align with government health initiatives in high-budget cities and use AQI trend forecasting plus online behavior data to optimize inventory and marketing spend.
+
+# Links
+[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-black?style=for-the-badge&logo=github)](https://ishaa-abdul-rf8vkiq.gamma.site/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishaa-abdul-63b079217/)
